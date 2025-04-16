@@ -4,6 +4,8 @@ DELL Dell Pro 14 Plus XCTO　Core Ultra 236V：8コア、8スレッド
 EPSON Endeavor NL2100E　Core™ 5 プロセッサー 120U：10コア、12スレッド
 Lenovo ThinkPad L15 Gen 5　インテル® Core™ Ultra 5 プロセッサー 125U：12コア、14スレッド
 
+DELL Inspiron 14 5430　Core i5-1335U：10コア、12スレッド
+
 
 
 
