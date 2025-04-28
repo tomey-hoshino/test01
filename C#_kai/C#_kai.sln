@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35919.96
+VisualStudioVersion = 17.13.35919.96 d17.13
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClockApp", "ClockApp\ClockApp.csproj", "{6F3E3E28-9542-48C5-BDF1-309FF54B08B7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C#_kai", "C#_kai\C#_kai.csproj", "{2B672548-332C-4659-BB09-005F7C8D51E0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{6F3E3E28-9542-48C5-BDF1-309FF54B08B7}.Debug|Any CPU.ActiveCfg = Release|Any CPU
-		{6F3E3E28-9542-48C5-BDF1-309FF54B08B7}.Debug|Any CPU.Build.0 = Release|Any CPU
-		{6F3E3E28-9542-48C5-BDF1-309FF54B08B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6F3E3E28-9542-48C5-BDF1-309FF54B08B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B672548-332C-4659-BB09-005F7C8D51E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B672548-332C-4659-BB09-005F7C8D51E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B672548-332C-4659-BB09-005F7C8D51E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B672548-332C-4659-BB09-005F7C8D51E0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {5409934C-27C9-4D78-A3B8-AEDC86C90AEC}
+		SolutionGuid = {2FC736B6-0035-4E7E-B81B-6B64FCF3A542}
 	EndGlobalSection
 EndGlobal
